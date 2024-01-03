@@ -10,6 +10,7 @@ public class BinaryTreeDemo {
         root.right.left = new HeroNode(6,"a");
         root.right.right = new HeroNode(7,"a");
         root.postOrderList();
+        System.out.println("hello world");
     }
 }
 //二叉树
