@@ -11,6 +11,7 @@ public class BinaryTreeDemo {
         root.right.right = new HeroNode(7,"a");
         root.postOrderList();
         System.out.println("hello world");
+        System.out.println("hello world");
     }
 }
 //二叉树
